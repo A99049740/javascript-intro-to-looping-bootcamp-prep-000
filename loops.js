@@ -31,3 +31,4 @@ function doWhileLoop(array){
   while(array.length>0 && incrementVariable())
   return array
 }
+forLoop({1,2,3})
